@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Select * from emp1;
+=======
+Select * from emp;
+
+select * from Dept;
+>>>>>>> 0ad0df0883bb73d921e6d5b65d0c7052830c5644
